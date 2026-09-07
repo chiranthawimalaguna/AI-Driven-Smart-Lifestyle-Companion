@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94292695712",
+    "project_id": "lifepilot-a2be6",
+    "storage_bucket": "lifepilot-a2be6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94292695712:android:7302a13489716176e347c5",
+        "android_client_info": {
+          "package_name": "com.smartlifestyle.companion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3AOb-UY4-1hz4kEv8dJwjv_9Zg1cpPWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

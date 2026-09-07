@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Compass ring, within the 66dp adaptive-icon safe zone -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,54 a30,30 0 1,1 60,0 a30,30 0 1,1 -60,0 z" />
+    <!-- Amber "needle" pointing up-right, echoing the app's routine/direction theme -->
+    <path
+        android:fillColor="#BA7517"
+        android:pathData="M54,26 L64,58 L54,50 L44,58 Z" />
+    <!-- Centre pivot -->
+    <path
+        android:fillColor="#0F6E56"
+        android:pathData="M48,54 a6,6 0 1,1 12,0 a6,6 0 1,1 -12,0 z" />
+</vector>
